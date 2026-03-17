@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986633581175",
+    "project_id": "thai-story-ai",
+    "storage_bucket": "thai-story-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986633581175:android:c988c12c20bc7f3bd0cc72",
+        "android_client_info": {
+          "package_name": "com.example.thai_story_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7vFrU1QieJOZR8KKt7_uw2n8bgqOFXyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
