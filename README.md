@@ -16,3 +16,22 @@ AI-powered storytelling application with Text-to-Speech
 - Database: Firebase Firestore
 
 ## Project Structure
+
+---
+
+## 👩‍💻 My Contribution
+- AI Prompt Design
+- Story Flow Design
+- AI Chatbot Concept
+- Presentation & Demo
+- System Testing
+
+## 🛠 Technologies Used
+- Flutter
+- Python
+- AI Text Generation
+- Text-to-Speech
+- GitHub
+
+## 📚 Project Type
+University Final Project
