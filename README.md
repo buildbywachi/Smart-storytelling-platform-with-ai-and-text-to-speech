@@ -1,7 +1,6 @@
 # Thai Story AI App
 
-AI-powered storytelling application with Text-to-Speech
-
+Smart Storytelling Platform with AI and Text-to-Speech
 ---
 
 ## ✨ Features
