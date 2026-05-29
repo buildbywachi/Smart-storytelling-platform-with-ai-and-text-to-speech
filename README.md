@@ -17,28 +17,29 @@ Smart Storytelling Platform with AI and Text-to-Speech
 ## 📱 Application Screenshots
 
 ### 🔐 Register Screen
-<img width="250" alt="ภาพหน้าจอสมัครสมาชิกของแอปพลิเคชัน" src="https://github.com/user-attachments/assets/74162b7e-4b0c-4d7c-b8e0-e35c07f5b035" />
+<img width="133" height="159" alt="หน้าจอสมัครสมาชิก" src="https://github.com/user-attachments/assets/a402c5e3-b453-48d4-9b16-40b802bd10d7" />
 
 ### 🔑 Login Screen
-<img width="250" alt="ภาพหน้าจอเข้าสู่ระบบของแอปพลิเคชัน" src="https://github.com/user-attachments/assets/3aa8d49d-4dc5-4273-9158-6e895197590a" />
+<img width="175" height="305" alt="ภาพหน้าจอหลักของแอปพลิเคชันหลังเข้าสู่ระบบ" src="https://github.com/user-attachments/assets/a490ed0c-616b-4147-957d-f2982158c3b0" />
 
 ### 🏠 Home Screen
-<img width="250" alt="ภาพหน้าจอหลักของแอปพลิเคชันหลังเข้าสู่ระบบ" src="https://github.com/user-attachments/assets/91128391-76d1-4644-8a6b-1f599d313998" />
+<img width="175" height="305" alt="ภาพหน้าจอหลักของแอปพลิเคชันหลังเข้าสู่ระบบ" src="https://github.com/user-attachments/assets/b3eb9a1d-fc04-410e-937e-9f079bc81848" />
 
 ### ✨ Story Generation Screen
-<img width="250" alt="ภาพหน้าจอกรอกหัวข้อและตั้งค่าการสร้างนิทาน" src="https://github.com/user-attachments/assets/31c51ac9-401a-42d0-b459-eb172d06f9dc" />
+<img width="282" height="315" alt="ภาพหน้าจอกรอกหัวข้อและตั้งค่าการสร้างนิทาน" src="https://github.com/user-attachments/assets/76816a88-99e8-4e19-bf78-e76adcba9c88" />
+
 
 ### 📚 Story History
-<img width="250" alt="ภาพหน้าจอประวัติการสร้างนิทาน" src="https://github.com/user-attachments/assets/ee952d83-0c4f-4b43-81b0-1b15c0465f1a" />
+<img width="291" height="521" alt="ภาพหน้าจอประวัติการสร้างนิทาน" src="https://github.com/user-attachments/assets/f53ed7f7-32d6-4884-a5d1-67ab29f09fa1" />
 
 ### 📖 Story Detail
-<img width="250" alt="ภาพหน้าต่างแสดงรายละเอียดนิทานย้อนหลัง" src="https://github.com/user-attachments/assets/2793879d-354b-47c4-baf0-19ec05c7a034" />
+<img width="275" height="493" alt="ภาพหน้าต่างแสดงรายละเอียดนิทานย้อนหลัง" src="https://github.com/user-attachments/assets/1190c92a-daf7-4406-9090-56fbfbf28a54" />
 
 ### 🗑 Delete Confirmation
-<img width="250" alt="ภาพหน้าต่างยืนยันการลบรายการ" src="https://github.com/user-attachments/assets/33a099b3-843a-4435-a628-1ca073336f48" />
+<img width="121" height="215" alt="ภาพหน้าต่างยืนยันการลบรายการ" src="https://github.com/user-attachments/assets/b5a95b99-3ccb-4822-a80c-238c77830593" />
 
 ### ✅ Delete Success
-<img width="250" alt="ภาพหน้าจอหลังจากลบรายการสำเร็จ" src="https://github.com/user-attachments/assets/f4858c42-9ab6-4d02-89c2-c90615fdaa9e" />
+<img width="136" height="213" alt="ภาพหน้าจอหลังจากลบรายการสำเร็จ" src="https://github.com/user-attachments/assets/cbbab1f0-8899-4331-9db3-10f41bf201d3" />
 
 ---
 
